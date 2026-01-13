@@ -8,7 +8,7 @@
 
 *There's cheese in that house...somewhere. You know it, you can smell it, and, as a rat, you need to get it. But the question is: how?*
 
-#### *GAME CONTENT*
+##### *GAME CONTENT*
 
 * Cat that patrols the halls
 * Scent markings to show where the cheese is
