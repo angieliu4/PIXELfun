@@ -13,6 +13,7 @@
 * Cat that patrols the halls
 * Scent markings to show where the cheese is
 * Puzzles (locked doors, enivironmental hazards)
+* Top down perspective
 
 
 
