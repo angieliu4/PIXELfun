@@ -10,7 +10,7 @@
 
 #### *MOCK-UP*
 
-!(RATGAME)[https://github.com/angieliu4/PIXELfun/blob/main/images/ratgame.png?raw=true]
+![RATGAME](https://github.com/angieliu4/PIXELfun/blob/main/images/ratgame.png?raw=true)
 
 ##### *GAME CONTENT*
 
