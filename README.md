@@ -14,11 +14,8 @@
 
 ##### *GAME CONTENT*
 
-* Cat that patrols the halls
-* Scent markings to show where the cheese is
-* Puzzles
-* Environmental hazards (water, mouse traps)
-* Low-poly + 3D
+A low-poly, 3D game featuring a rat (the player), puzzles, environmental hazards, and a single objective: get the cheese. Pay attention to the scent marking to locate it! Players must avoid both a cat and a human carefully guarding that yellow triangle. The rat must get past locked doors, water spills, and mouse traps. There are mouse holes around the house to aid players.
+
 
 
 
