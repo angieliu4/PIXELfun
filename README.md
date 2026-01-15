@@ -18,6 +18,7 @@
 * Scent markings to show where the cheese is
 * Puzzles
 * Environmental hazards (water, mouse traps)
+* Low-poly + 3D
 
 
 
