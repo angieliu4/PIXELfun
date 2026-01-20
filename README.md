@@ -14,7 +14,7 @@
 
 A low-poly, 3D game featuring a rat (the player), puzzles, environmental hazards, and a single objective: get the cheese. Pay attention to the scent marking to locate it! Players must avoid both a cat and a human carefully guarding that yellow triangle. The rat must get past locked doors, water spills, and mouse traps. There are mouse holes around the house to aid players.
 
-#### *LINK TO PORJECT REPO*
+#### *LINK TO PORJECT REPOSITORY*
 
 [Low Poly Rat REPO!](https://github.com/angieliu4/lowpolyrat)
 
